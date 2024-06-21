@@ -1,0 +1,41 @@
+body {
+  height: 100%;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.box {
+  max-width: 600px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px 40px;
+  border: 1px solid #dadada;
+  border-radius: 20px;
+}
+
+.box p {
+  font-family: "Bitter", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #545454;
+}
+
+.title {
+  margin: 0px;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #323232;
+}
+
+.line {
+  background-color: #dadada;
+  height: 1px;
+  margin: 20px 0px;
+}
